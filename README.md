@@ -2,6 +2,4 @@
 
 This is really awesome changed
 
-Editing on example branch
-
-Updated locally
+Updates made on README before rebase
